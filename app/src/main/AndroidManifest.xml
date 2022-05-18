@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.musicquiz">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_musicquiz"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_musicquiz_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MusicQuiz">
+        <activity
+            android:name="com.example.musicquiz.PopUpStatsActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.PopupTheme"/>
+        <activity
+            android:name="com.example.musicquiz.PopUpActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.PopupTheme"/>
+        <activity
+            android:name="com.example.musicquiz.ResultadoActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.example.musicquiz.DificultadActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.example.musicquiz.PreguntasActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <service android:name=".BackgroundSoundService"/>
+    </application>
+
+</manifest>

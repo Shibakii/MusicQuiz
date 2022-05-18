@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MusicQuiz</string>
+
+    <string name="diftext_esp">Escoge la dificultad</string>
+    <string name="diftext_cat">Escull la dificultat</string>
+    <string name="diftext_eng">Choose the difficulty</string>
+
+    <string name="agetext_esp">Introduce tu edad</string>
+    <string name="agetext_cat">Introdueix la teva edat</string>
+    <string name="agetext_eng">Enter your age</string>
+
+    <string name="btntext_esp">Comenzar</string>
+    <string name="btntext_cat">Començar</string>
+    <string name="btntext_eng">Start</string>
+
+    <string name="btnPregunta_esp">Siguiente pregunta</string>
+    <string name="btnPregunta_cat">Següent pregunta</string>
+    <string name="btnPregunta_eng">Next question</string>
+
+    <string name="totalPreguntas_esp">Total preguntas del mismo tipo: </string>
+    <string name="totalPreguntas_cat">Total preguntas del mateix tipus: </string>
+    <string name="totalPreguntas_eng">Total questions of the same type: </string>
+
+    <string name="totalCorrectas_esp">Total correctas del mismo tipo: </string>
+    <string name="totalCorrectas_cat">Total correctes del mateix tipus: </string>
+    <string name="totalCorrectas_eng">Total correct of the same type: </string>
+
+    <string name="porcentajes_esp">Porcentaje obtenido del tipo: </string>
+    <string name="porcentajes_cat">Porcentage obtingut del tipus: </string>
+    <string name="porcentajes_eng">percentage obtained from the type: </string>
+
+    <string name="intro">Nuestra intencion al hacer esta aplicación, fue concienciar a las personas de hoy en dia sobre la musica de hoy en dia y sus valores tanto culturales como sonros.</string>
+</resources>

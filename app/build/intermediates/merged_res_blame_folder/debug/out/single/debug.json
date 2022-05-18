@@ -1,0 +1,710 @@
+[
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_redondear.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\redondear.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_23.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_23.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_1.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\music_1.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_triste.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\triste.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_20.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_20.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_musicquiz_round.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_musicquiz_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_musicquiz_foreground.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_musicquiz_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_musicquiz_foreground.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_musicquiz_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_musicquiz_round.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_musicquiz_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stats.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\stats.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_00.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_00.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_05.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_05.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_15.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_15.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_07.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_07.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_frame_3.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\frame_3.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_star_5.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\star_5.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_star_6.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\star_6.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_2.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\music_2.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_music_6.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\music_6.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_musiclogo.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\musiclogo.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_13.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_13.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_14.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_14.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_stop.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blue_player.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\blue_player.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star_1.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\star_1.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup_layout.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\layout\\popup_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_08.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_08.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_frame_2.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\frame_2.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_04.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_04.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_musicquiz_round.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_musicquiz_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_01.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_01.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star_8.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\star_8.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_red_player.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\red_player.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_catalonia.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\catalonia.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_10.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_10.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_22.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_22.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_preguntas.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\layout\\activity_preguntas.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_18.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_18.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_stats.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\stats.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_music_1.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\music_1.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_feliz.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\feliz.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_info.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_star_3.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\star_3.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_checked.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\checked.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_3.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\frame_3.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_09.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_09.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_13.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_13.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red_player.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\red_player.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_3.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\music_3.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_21.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_21.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_0.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\frame_0.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star_2.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\star_2.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_02.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_02.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_0.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\music_0.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reloj.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\reloj.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star_7.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\star_7.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_unitedkingdom.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\unitedkingdom.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_border.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\spinner_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_info_popup.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\info_popup.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_15.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_15.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_musicquiz_foreground.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_musicquiz_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_music_4.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\music_4.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_info.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_musicquiz.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_musicquiz.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_16.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_16.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_musicquiz.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_musicquiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_frame_1.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\frame_1.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_03.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_03.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_star_8.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\star_8.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_musicquiz.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_musicquiz.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_12.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_12.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_music_7.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\music_7.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star_animated.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\star_animated.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_06.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_06.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_19.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_19.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_music_3.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\music_3.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_frame_0.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\frame_0.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_04.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_04.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_spain.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\spain.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_musicquiz.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_musicquiz.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_musicquiz_foreground.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_musicquiz_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_contador.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\contador.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star_4.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\star_4.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_01.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_01.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_5.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\music_5.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_08.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_08.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_musicquiz.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_musicquiz.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_persona.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\persona.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_16.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_16.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_musiclogo.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\musiclogo.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_18.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_18.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_17.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_17.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_persona.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\persona.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_05.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_05.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_00.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_00.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_11.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_11.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dificultad.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\layout\\activity_dificultad.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_2.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\frame_2.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_star_2.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\star_2.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star_5.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\star_5.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadein.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo_preguntas.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo_preguntas.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_07.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_07.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_resultado.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\layout\\activity_resultado.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stop.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_6.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\music_6.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triste.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\triste.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_20.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_20.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_catalonia.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\catalonia.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_music_2.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\music_2.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_10.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_10.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_23.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_23.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_17.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_17.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrowspinner.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\arrowspinner.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star_6.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\star_6.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_music_5.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\music_5.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_star_7.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\star_7.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_14.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_14.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup_stats_layout.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\layout\\popup_stats_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_musicquiz_foreground.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_musicquiz_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_musicquiz_round.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_musicquiz_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_11.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_11.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spain.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\spain.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_02.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_02.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_blue_player.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\blue_player.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_03.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_03.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_musicquiz_round.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_musicquiz_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_21.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_21.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_star_4.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\star_4.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_arrowspinner.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\arrowspinner.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_border_round.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\border_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\raw_elevator_music.mp3.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\raw\\elevator_music.mp3"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_22.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_22.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_reloj.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\reloj.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_musicquiz_round.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_musicquiz_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_7.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\music_7.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_19.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_19.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_music_0.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\music_0.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_info_popup.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\info_popup.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_feliz.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\feliz.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_06.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_06.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_star_1.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\star_1.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_1.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\frame_1.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star_3.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\star_3.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_4.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\music_4.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_animated.xml.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_animated.xml"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checked.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\checked.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo2_12.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable-v24\\fondo2_12.gif"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_musicquiz.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_musicquiz.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unitedkingdom.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\unitedkingdom.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2_09.gif.flat",
+        "source": "C:\\Users\\bondo\\OneDrive\\Escritorio\\MusicQuiz-main\\app\\src\\main\\res\\drawable\\fondo2_09.gif"
+    }
+]

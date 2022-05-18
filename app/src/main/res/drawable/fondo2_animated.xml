@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/fondo2_00" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_01" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_02" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_03" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_04" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_05" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_06" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_07" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_08" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_09" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_10" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_11" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_12" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_13" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_14" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_15" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_16" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_17" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_18" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_19" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_20" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_21" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_22" android:duration="130"/>
+    <item android:drawable="@drawable/fondo2_23" android:duration="130"/>
+</animation-list>
